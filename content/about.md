@@ -9,10 +9,15 @@ hidemeta: true
 
 I'm **Jerome Lacoste**, a software engineer turned entrepreneur, based in Norway.
 
-I was Engineering Manager at DragonBox, acquired by Kahoot!. These days I run a
-handful of small companies at different stages of maturity. My focus is strategy,
-business viability, and process — and, inevitably, building the software to
-support it.
+I freelanced for ten years, from 2002 to 2011, mostly for startups and SMBs. From
+2012 to 2024 I was at DragonBox, which grew from 3 people to 35, and then at
+Kahoot! after the acquisition, which went from 65 to 600. Since 2023 I've been
+turning the [by bonita](https://bybonita.no/) companies around into profitability,
+and building [PILOT Made](https://pilotmade.no/) toward its first customer.
+
+So: a handful of small companies at different stages of maturity. My focus is
+strategy, business viability, and process — and, inevitably, building the
+software to support it.
 
 CoffeeBreaks was the name of my first consulting company. It seemed like a
 reasonable place to keep writing things down.
