@@ -9,6 +9,8 @@ hidemeta: true
 
 I'm **Jerome Lacoste**, a software engineer turned entrepreneur, based in Norway.
 
+## Bio
+
 Ten years freelancing, 2002 to 2011, mostly for startups and SMBs. Then twelve at
 [DragonBox](https://dragonbox.com/) and, after the acquisition,
 [Kahoot!](https://kahoot.com/) — 3 people to 35, then 65 to 600. A sabbatical
@@ -20,10 +22,7 @@ So: a handful of small companies at different stages of maturity. My focus is
 strategy, business viability, and process — and, inevitably, building the
 software to support it.
 
-CoffeeBreaks was the name of my first consulting company. It seemed like a
-reasonable place to keep writing things down.
-
-I write about a few things here.
+## What I write about
 
 **Projects** — small technical things I build because they're interesting.
 

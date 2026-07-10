@@ -41,15 +41,7 @@ enableEmoji = true
   [params.homeInfoParams]
     Title = 'CoffeeBreaks'
     Content = """
-Jerome's musings.
-
-A few things, mostly. **Projects** I build out of curiosity. **Engineering** — \
-the software behind retail, e-commerce and SaaS: order management, hosting, and \
-the back office, from CRM and payroll to financial reconciliation, KPIs and big \
-data. And **Entrepreneurship** — what running those businesses has taught me \
-about structuring information and deciding what's worth measuring.
-
-Named after my first consulting company.
+Jerome's musings. Named after my first consulting company.
 """
 
   [[params.socialIcons]]
