@@ -10,8 +10,9 @@ hidemeta: true
 I'm **Jerome Lacoste**, a software engineer turned entrepreneur, based in Norway.
 
 Ten years freelancing, 2002 to 2011, mostly for startups and SMBs. Then twelve at
-DragonBox and, after the acquisition, Kahoot! — 3 people to 35, then 65 to 600. A
-sabbatical year in 2022. Since 2023 I've been turning the
+[DragonBox](https://dragonbox.com/) and, after the acquisition,
+[Kahoot!](https://kahoot.com/) — 3 people to 35, then 65 to 600. A sabbatical
+year in 2022. Since 2023 I've been turning the
 [by bonita](https://bybonita.no/) companies around into profitability, and
 building [PILOT Made](https://pilotmade.no/) toward its first customer.
 
