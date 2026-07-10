@@ -32,8 +32,8 @@ easier, and what's actually worth measuring.
 
 ## Businesses
 
-- [by bonita](https://bybonita.no/) — the cafe, the flower shop and the restaurant, under one roof
 - [PILOT Made](https://pilotmade.no/) — aviation. *Ahead of the aircraft.*
+- [by bonita](https://bybonita.no/) — the cafe, the flower shop and the restaurant, under one roof
 
 ## Open source
 
