@@ -7,10 +7,10 @@ ShowReadingTime: false
 hidemeta: true
 ---
 
-I'm **Jerome Lacoste**, a software engineer based in Norway.
+I'm **Jerome Lacoste**, a software engineer turned entrepreneur, based in Norway.
 
 I was Engineering Manager at DragonBox, acquired by Kahoot!. These days I run a
-handful of small companies — a pasta bar and cafe, a flower shop, and an aviation
+handful of small companies — a cafe, a flower shop, a restaurant, and an aviation
 startup — which means I spend as much time on order management and reconciliation
 as on code.
 
@@ -32,9 +32,8 @@ easier, and what's actually worth measuring.
 
 ## Businesses
 
+- [by bonita](https://bybonita.no/) — the cafe, the flower shop and the restaurant, under one roof
 - [PILOT Made](https://pilotmade.no/) — aviation. *Ahead of the aircraft.*
-- [De La Casa Pasta Bar & Bonita Cafe](https://www.delacasapastabar.com/)
-- [Bonita Blomster](https://www.bonitablomster.no/)
 
 ## Open source
 
