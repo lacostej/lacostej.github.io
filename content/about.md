@@ -22,6 +22,10 @@ So: a handful of small companies at different stages of maturity. My focus is
 strategy, business viability, and process — and, inevitably, building the
 software to support it.
 
+I'm French, and Norwegian too since I moved here in 1998. Between a
+French-Colombian family and four kids, I get through French, Spanish, English and
+Norwegian most days.
+
 ## What I write about
 
 **Projects** — small technical things I build because they're interesting.
