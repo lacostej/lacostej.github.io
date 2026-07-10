@@ -36,7 +36,8 @@ business requires: building the core product and delivering value; supporting th
 customer experience, from before someone is a customer through to keeping them a
 happy one; and whatever else the organization needs to move forward, in
 particular the back office — CRM, payroll, financial reconciliation, KPIs, big
-data. A friend of mine used to call these the invisible things.
+data. A friend of mine used to call these the invisible things. To me they're the
+foundation of running a business smoothly.
 
 **Entrepreneurship** — what running those companies has taught me. Which KPIs
 survive contact with reality, how to structure information so decisions get
