@@ -31,10 +31,12 @@ Norwegian most days.
 **Projects** — small technical things I build because they're interesting.
 
 **Engineering** — the software behind the companies. The domains are retail,
-e-commerce and SaaS, and the surface is wider than people expect: order
-management, hosting, engineering proper, and the whole back office — CRM,
-payroll, financial reconciliation, KPIs, big data. The parts of commerce that
-never make it into a conference talk.
+e-commerce, app development and SaaS, and the surface is everything running a
+business requires: building the core product and delivering value; supporting the
+customer experience, from before someone is a customer through to keeping them a
+happy one; and whatever else the organization needs to move forward, in
+particular the back office — CRM, payroll, financial reconciliation, KPIs, big
+data. The parts of commerce that never make it into a conference talk.
 
 **Entrepreneurship** — what running those companies has taught me. Which KPIs
 survive contact with reality, how to structure information so decisions get
