@@ -1,0 +1,94 @@
+baseURL = 'https://lacostej.github.io/'
+locale = 'en-us'
+title = 'CoffeeBreaks'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[markup.highlight]
+  noClasses = false
+  codeFences = true
+  guessSyntax = true
+  lineNos = false
+
+[params]
+  description = "Jerome's musings — side projects, the software behind running small businesses, and what I've learned running them."
+  keywords = ['blog', 'software', 'engineering', 'entrepreneurship', 'kpis', 'small business', 'ecommerce']
+  author = 'Jerome Lacoste'
+  DateFormat = '2 January 2006'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+  TocOpen = false
+  hidemeta = false
+
+  [params.homeInfoParams]
+    Title = 'CoffeeBreaks'
+    Content = """
+Jerome's musings.
+
+Three things, mostly. **Projects** I build out of curiosity. **Engineering** — \
+the software that actually runs a few small businesses: order management, \
+reconciliation, migrations, monitoring. And **Entrepreneurship** — what running \
+those businesses has taught me about KPIs, structuring information, and deciding \
+what's worth measuring.
+
+Named after my first consulting company.
+"""
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/lacostej/'
+
+  [[params.socialIcons]]
+    name = 'linkedin'
+    url = 'https://www.linkedin.com/in/lacostej'
+
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:jerome.lacoste@gmail.com'
+
+  [[params.socialIcons]]
+    name = 'rss'
+    url = 'index.xml'
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 10
+
+  [[menu.main]]
+    identifier = 'categories'
+    name = 'Categories'
+    url = '/categories/'
+    weight = 20
+
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 30
+
+  [[menu.main]]
+    identifier = 'search'
+    name = 'Search'
+    url = '/search/'
+    weight = 40
