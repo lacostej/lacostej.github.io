@@ -10,7 +10,7 @@ CoffeeBreaks started as the name of my first consulting company. For a while it
 was also a blog, on a domain I no longer own. This is the blog part, restarted —
 a Hugo site published straight from GitHub Pages.
 
-I expect to write about three things.
+I expect to write about a few things.
 
 Small projects I build for the fun of it, like the Samsung AirTag tracker I'm
 currently poking at.

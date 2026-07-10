@@ -23,7 +23,7 @@ software to support it.
 CoffeeBreaks was the name of my first consulting company. It seemed like a
 reasonable place to keep writing things down.
 
-I write about three things here.
+I write about a few things here.
 
 **Projects** — small technical things I build because they're interesting.
 
